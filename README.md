@@ -1,1 +1,1 @@
-# Flutter-Projects
+# A BMI Calculator built in flutter
